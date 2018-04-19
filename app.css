@@ -1,0 +1,17 @@
+#picture{
+  margin:50px;
+  width: 200px;
+  float: left;
+}
+img{
+  width: 200px;
+}
+#word{
+  color:gray;
+  font-size:30px;
+  height:230px;
+  width:250px;
+  text-align:center;
+  margin:50px;
+
+}
